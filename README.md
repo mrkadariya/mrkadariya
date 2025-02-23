@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mrkadariya
+- 👋 Hi, I’m @Mrlokesh
 - 👀 I’m interested in Web Development, Data Analyst, UI/UX Interface, Graphics Designing, 
 - 🌱 I’m currently learning Bachelor in Computer Application (BCA) at Vishwa Adarsha College, Itahari-4, Sunsari, Koshi Province 
 - 💞️ I’m looking to collaborate on Internship for Web Development & Graphics Designing
